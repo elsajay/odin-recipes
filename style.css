@@ -47,6 +47,7 @@ ol li {
 }
 
 img {
-    margin-left: 35%;
- 
+    display: block;
+    margin: auto;
+    
 }

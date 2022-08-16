@@ -1,0 +1,52 @@
+/* * {
+    border: 1px black solid;
+
+} */
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(8, 14, 65);
+    background-color: rgb(198, 215, 221);
+    text-align: left;
+  }
+
+h1 {
+    font-weight: 1000;
+    font-size: 32px;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 800;
+}
+
+p {
+    font-style: italic;
+}
+
+a:hover {
+    background-color: red;
+}
+
+ul li, 
+ol li {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#recipes li {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.title {
+    text-align: center;
+
+}
+
+img {
+    margin-left: 35%;
+ 
+}
